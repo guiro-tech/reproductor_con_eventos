@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Entornos
+.env/
+.venv/
+venv/
+
+# PyInstaller / build
+build/
+dist/
+*.spec
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+
+# Cachés / logs
+.mypy_cache/
+.pytest_cache/
+*.log
+
+# Artefactos portables
+*.AppImage

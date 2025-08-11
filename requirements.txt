@@ -1,0 +1,4 @@
+mutagen==1.47.0
+pygame==2.6.1
+tkinterdnd2==0.4.3
+ttkbootstrap==1.14.2
